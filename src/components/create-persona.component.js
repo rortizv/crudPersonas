@@ -145,7 +145,7 @@ export default class CreatePersona extends Component {
                         />
                     </div>
                     <div className="form-group">
-                        <input type="submit" value="Crear Persona" className="btn btn-primary" />
+                        <input type="submit" value="Crear una Persona" className="btn btn-primary" />
                     </div>
                 </form>
             </div>
